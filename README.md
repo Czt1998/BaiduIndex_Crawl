@@ -22,7 +22,7 @@ First use its name to get the date from MTime.<br>
 ![date](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/date)
 <br>
 And then use its name and date to get the data from baiduindex.<br>
-![baidu](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/baiduindex)
+![](https://github.com/Czt1998/BaiduIndex_Crawl/raw/blob/master/pic/baidu.jpg)
 <br>
 Store the imformation like this.<br>
 movie_name <br>
