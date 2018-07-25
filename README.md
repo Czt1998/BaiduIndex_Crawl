@@ -18,12 +18,10 @@ Based on python3.5 and selenium, first need to install：<br>
 Star with `main.py` and then it will call the `Get_date` and `BaiduIndex_Crawl.py` to get the data we need.<br>
 ## Sample
 * Let's take 山楂树之恋 as example<br>
-First use its name to get the date from MTime.<br>
+* First use its name to get the date from MTime.<br>
 ![date](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/date)
-<br>
-And then use its name and date to get the data from baiduindex.<br>
-![](https://github.com/Czt1998/BaiduIndex_Crawl/raw/blob/master/pic/baidu.jpg)
-<br>
-Store the imformation like this.<br>
+* And then use its name and date to get the data from baiduindex.<br>
+![](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/baidu.jpg)
+* Store the imformation like this.<br>
 movie_name <br>
 [date1:data1,date2:data2....]<br>
