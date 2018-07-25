@@ -19,10 +19,10 @@ Star with `main.py` and then it will call the `Get_date` and `BaiduIndex_Crawl.p
 ## Sample
 * Let's take 山楂树之恋 as example<br>
 First use its name to get the date from MTime.<br>
-![](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/date)
+![date](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/date)
 <br>
 And then use its name and date to get the data from baiduindex.<br>
-![](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/baiduindex)
+![baidu](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/baiduindex)
 <br>
 Store the imformation like this.<br>
 movie_name <br>
