@@ -22,6 +22,7 @@ Star with `main.py` and then it will call the `Get_date` and `BaiduIndex_Crawl.p
 ![date](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/date)
 * And then use its name and date to get the data from baiduindex.<br>
 ![](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/baidu.jpg)
-* Store the imformation like this.<br>
+* Store the imformation like this.<br><br>
 movie_name <br>
 [date1:data1,date2:data2....]<br>
+[example](https://github.com/Czt1998/BaiduIndex_Crawl/blob/master/pic/4151110.txt)
