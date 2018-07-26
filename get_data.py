@@ -8,7 +8,7 @@ reload(sys)
 
 driver1 = webdriver.PhantomJS(executable_path="./phantomjs")
 
-AccountList = [[13612339624,348673210],[15625125392,348673210]]
+AccountList = []
 
 def get_data(year):
     """
