@@ -15,7 +15,9 @@ Based on python3.5 and selenium, first need to install：<br>
 4. `phantomjs`
 5. `chromedriver`
 ## Operation instructions
-Star with `star.sh` and then it will call the `main.py`, the `main.py` will call `Get_date` and `BaiduIndex_Crawl.py` to get the data we need.<br>
+|Fill in account|star.sh|main.py|
+|:--------------|-------|-------|
+|Open the `Get_data.py`, find 'AccountList' in line 11, fill in several account like this ['account','passwd']|Star with `star.sh`, and the it will run the `main.py` to do the task|It will call the `Get_data.py` and `BaiduIndex_Crael.py`.| 
 ## Sample
 * Let's take 山楂树之恋 as example<br>
 * First use its name to get the date from MTime.<br>
